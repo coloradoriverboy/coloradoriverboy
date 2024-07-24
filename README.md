@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on code conversion and general conversation 
 - 📫 How to reach me coloradoriverboy@gmail.com 
 - 😄 Pronouns: he/him 
-- ⚡ Fun fact: I was one a medic for the Vice President 
+- ⚡ Fun fact: I was once a medic for the Vice President 
 
 <!---
 coloradoriverboy/coloradoriverboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
